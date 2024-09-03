@@ -1,0 +1,24 @@
+venv {                                   #.split()
+  main.console(True) {                   #.split()
+    console.output("Hello World!");      #.split(";") .split("(") var["#code"]
+  }
+}
+
+
+
+# consoleClass
+
+console.output(arg*) ===> (" # ")
+console.input(arg*) = #var -->
+console.output.color(arg*1, arg2*)
+console.input.color(arg*1, arg*2) = #var -->
+console.sleep(arg*)
+console.end()
+
+
+# varClass
+var.new(event => {arg*1}) = arg*2 -->
+var.convert(arg*1, arg*2)
+var.global(arg*)
+var.split(arg*1, arg*2)
+
