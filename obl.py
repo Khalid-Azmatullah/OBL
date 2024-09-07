@@ -241,3 +241,5 @@ else:
   error('VirtualEnvironmentDeclarationError: ', f'Invalid declaration of virtual-environment')
   
 return_code(call_value.split('^%^%^%^%^%^')[0])
+
+trash = input()
