@@ -1,3 +1,5 @@
+> [Important] THE OBL SYNTAX IS CHANGING HENCE THE CODE IS NOT FUNCTIONING RIGHT NOW.
+
 # OBL
 
 OBL or 'Other Basic Language' is a python project that aims at creating an extremely realistic experience of coding in an actual language. It functions similarly as an COL but is of course not a real language.

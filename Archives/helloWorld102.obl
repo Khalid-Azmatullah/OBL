@@ -1,0 +1,6 @@
+venv {
+  console.main(0) {
+    console.output("Hello World!");
+    # this is  a comment
+  }
+}

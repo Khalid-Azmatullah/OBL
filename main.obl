@@ -1,9 +1,7 @@
-venv {
-  main.console(True) {
-    #this is a comment!
-    console.output("Hello  ()   World!");
-    #this is allsi a com
-    console.output("Hey There!");
-    console.output("Numpy is overated!");
-  }
-}
+INCLUDE CONSOLE
+INCLUDE VAR
+
+MAIN
+
+VAR NAME = "Khalid Azmatullah"
+CONSOLE OUTPUT "HELLO WORLD"
